@@ -14,3 +14,7 @@ $0024 0024 005C 003C 0073 0074 0079 006C 0065 003E 0064 0069 0076 007B 0062 0061
 
 
 <pre><!---->$$&lt;style&gt;body{padding:50px;background-color:#4b6bb7;}&lt;/style&gt;{}$$<!----></pre>
+
+<p dir="auto"><math-renderer class="js-display-math" style="display: block" data-static-url="https://github.githubassets.com/static" data-run-id="30e97ec335b4835681b2a7c5b7c2b5dc" data-catalyst=""><!----><div class="flash flash-error"><!---->You can't use 'macro parameter character #' in math mode<!----></div>
+        <br>
+        <pre><!---->$$\&lt;style&gt;div{background-color:#66f3e6}&lt;/style&gt;{}()$$<!----></pre><!----></math-renderer></p>
