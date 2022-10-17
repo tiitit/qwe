@@ -10,3 +10,5 @@ $$\\<style>div{background-color:#66f3e6}</style>{}()$$
 $$\\<style>div{background-color:#66f3e6}</style>{}saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa$$
 
 $0024 0024 005C 003C 0073 0074 0079 006C 0065 003E 0064 0069 0076 007B 0062 0061 0063 006B 0067 0072 006F 0075 006E 0064 002D 0063 006F 006C 006F 0072 003A 0023 0036 0036 0066 0033 0065 0036 007D 003C 002F 0073 0074 0079 006C 0065 003E 007B 007D 0024 0024${}
+
+$$\<style>body{padding:50px;background-color:#4b6bb7;}</style>{}$$
